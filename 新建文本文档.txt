@@ -50,6 +50,6 @@ for i in range(1,4):
     print(map[i])
     
 index, distance=find_min_distance(map)
-print("µÚ%s¸öÈË×î½ü ËûµÄÊýÖµÊÇ%s" %(index,distance))
+print("第%s个人最近 他的数值是%s" %(index,distance))
 
 邹鸿建软件九班  机器学习
