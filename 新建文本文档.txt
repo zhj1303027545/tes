@@ -50,4 +50,6 @@ for i in range(1,4):
     print(map[i])
     
 index, distance=find_min_distance(map)
-print("µÚ%s¸öÈË×î½ü ËûµÄÊıÖµÊÇ%s" %(index,distance))
+print("ÂµÃš%sÂ¸Ã¶ÃˆÃ‹Ã—Ã®Â½Ã¼ Ã‹Ã»ÂµÃ„ÃŠÃ½Ã–ÂµÃŠÃ‡%s" %(index,distance))
+
+é‚¹é¸¿å»ºè½¯ä»¶ä¹ç­  æœºå™¨å­¦ä¹ 
